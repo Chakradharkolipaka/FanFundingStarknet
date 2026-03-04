@@ -1,0 +1,1 @@
+{"version":1,"contracts":[{"id":"vf5mravt1j9ms","package_name":"fan_funding_starknet","contract_name":"NFTDonation","module_path":"fan_funding_starknet::nft_donation::NFTDonation","artifacts":{"sierra":"fan_funding_starknet_NFTDonation.contract_class.json","casm":"fan_funding_starknet_NFTDonation.compiled_contract_class.json"}}]}
